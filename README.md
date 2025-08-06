@@ -1,4 +1,4 @@
-# insurance-claim-severity-prediction
+
 # Insurance Claim Severity Prediction (WIP)
 
 This project aims to predict the severity of insurance claims using PySpark for big data processing, Azure Data Lake for storage, and Tableau for business insights — inspired by real-world insurance analytics workflows like those at AXA GBS.
